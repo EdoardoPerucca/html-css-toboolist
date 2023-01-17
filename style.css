@@ -1,0 +1,161 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box; 
+}
+
+.font-style {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#background {
+    background-color: rgba(246,248,249,255);
+}
+
+#logo {
+    width: 120px;
+    height: auto;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 10px;
+}
+
+#logo-google {
+    width: 300px;
+    height: auto;
+}
+
+#header {
+    width: auto;
+    background-color: white;
+}
+
+main {
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    padding-left: 40px;
+    margin-top: 50px;
+}
+
+#pulsante-task {
+    width: 120px;
+    height: 40px;
+    background-color: rgba(71,173,241,255);
+    border-radius: 10%;
+    border: none;
+    color: white;
+    font-size: large;
+    margin-right: 5px;
+    margin-bottom: 15px;
+    margin-top: 15px;   
+}
+
+#pulsante-section {
+    width: 120px;
+    height: 40px;
+    background-color: white;
+    border-radius: 10%;
+    border-color: grey;
+    color: grey;
+    font-size: large;
+}
+
+.index{
+    padding-top: 30px;
+}
+
+.font {
+    font-size: x-large;
+}
+
+strong {
+    font-size: x-large;
+}
+
+.list-block {
+    display: block;
+    margin-top: 10px;
+}
+
+.list-block-ending {
+    padding-bottom: 50px;
+    display: block;
+    margin-top: 10px;
+}
+
+.arrow-down {
+    width: 20px;
+    height: auto;
+    margin-right: 10px;
+    margin-top: 10px; 
+}
+
+.checkmark {
+    width: 20px;
+    height: auto;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.button-lightblue {
+    margin-left: 10px;
+    width: 80px;
+    height: 30px;
+    border-radius: 10%;
+    background-color: rgba(69,171,234,255);
+    color: white;
+    border: none;
+}
+
+.button-purple {
+    margin-left: 10px;
+    width: 80px;
+    height: 30px;
+    border-radius: 10%;
+    background-color: rgba(156,114,228,255);
+    color: white;
+    border: none;
+}
+
+.button-pink {
+    margin-left: 10px;
+    width: 80px;
+    height: 30px;
+    border-radius: 10%;
+    background-color: rgba(69,171,234,255);
+    color: white;
+    border: none;
+}
+
+.button-green {
+    margin-left: 10px;
+    width: 80px;
+    height: 30px;
+    border-radius: 10%;
+    background-color: rgba(100,192,169,255);
+    color: white;
+    border: none;
+}
+
+.button-lightgreen {
+    margin-left: 10px;
+    width: 80px;
+    height: 30px;
+    border-radius: 10%;
+    background-color: rgba(176,201,38,255);
+    color: white;
+    border: none;
+}
+
+.button-orange {
+    margin-left: 10px;
+    width: 80px;
+    height: 30px;
+    border-radius: 10%;
+    background-color: rgba(242,158,51,255);
+    color: white;
+    border: none;
+}
